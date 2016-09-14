@@ -1,0 +1,27 @@
+{
+  "name": "vscode-jest-example",
+  "version": "1.0.0",
+  "description": "a repo to demonstrate testing with jest using npm",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://mbifulco@github.com/mbifulco/vscode-jest-example.git"
+  },
+  "keywords": [
+    "jest",
+    "vscode"
+  ],
+  "author": "Mike Bifulco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbifulco/vscode-jest-example/issues"
+  },
+  "homepage": "https://github.com/mbifulco/vscode-jest-example#readme",
+  "devDependencies": {
+    "jest": "^15.1.1"
+  }
+}
